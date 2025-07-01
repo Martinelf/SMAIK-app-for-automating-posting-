@@ -24,7 +24,7 @@ An application for planning, editing and deleting publications in **VK** and **T
 2. Install the program by following the instructions
 3. Launch and log in using VK and Telegram tokens
 
-## Screenshoots  
+## Screenshoots   
 
 ![Main Window (Calendar)](images/mainWin.png)
 
